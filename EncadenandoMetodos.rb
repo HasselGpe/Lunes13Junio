@@ -65,8 +65,7 @@ puts shout_backwards("hello, boot") == "TOOB ,OLLEH!!!"
 puts squared_primes([1, 3, 4, 7, 42]) == [1, 9, 49]
 
 
- elsif palabra =~/[a-zA-Z]/
-      arr << palabra
+
 
 
 
